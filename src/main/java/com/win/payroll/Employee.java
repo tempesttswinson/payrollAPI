@@ -70,7 +70,3 @@ class Employee {
         return "Employee{" + "id=" + this.id + ", name='" + this.name + '\'' + ", role='" + this.role + '\'' + '}';
     }
 }
-
-class Employee {
-
-}
